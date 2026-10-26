@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pixel_maddin.punsch",
+        "sha256_cert_fingerprints": ["0F:BC:9A:2A:05:61:97:8D:F5:48:0F:F9:F1:5C:A7:B7:B7:0F:70:E5:56:00:CF:CF:FC:DF:76:66:9D:E0:48:48"]
+      }
+    }]
